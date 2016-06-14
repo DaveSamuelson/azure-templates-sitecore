@@ -28,6 +28,7 @@ http://storageexplorer.com/
   <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
+**If your template does not Visualise, this usually indicates invalid JSON - try validating in http://jsonlint.com/**
 
 Once deployed, use the following url to access the Sitecore web portal-
 http://[loadbalancer ip address]/sitecore
