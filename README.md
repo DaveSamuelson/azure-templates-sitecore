@@ -24,6 +24,11 @@ http://storageexplorer.com/
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
+<a href="http://armviz.io/#/?load=/https%3A%2F%2Fraw.githubusercontent.com%2Fsuneetnangia%2Fazure-templates-sitecore%2Fmaster%2FMicrosoft.Sitecore%2FMicrosoft.Sitecore.ResourceGroupDeployments%2FTemplates%2FSitecoreIaaS.json" target="_blank">  
+    <img src="http://armviz.io/visualizebutton.png"/>  
+</a>  
+
+
 Once deployed, use the following url to access the Sitecore web portal-
 http://[loadbalancer ip address]/sitecore
 
