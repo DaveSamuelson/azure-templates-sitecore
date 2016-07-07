@@ -503,7 +503,7 @@
           "properties": {
             "publisher": "Microsoft.Powershell",
             "type": "DSC",
-            "typeHandlerVersion": "2.9",
+            "typeHandlerVersion": "2.19",
             "autoUpgradeMinorVersion": true,
             "settings": {
               "modulesUrl": "[parameters('sqlServersitecoreDBConfigDSCScriptUri')]",
@@ -664,7 +664,7 @@
           "properties": {
             "publisher": "Microsoft.Powershell",
             "type": "DSC",
-            "typeHandlerVersion": "2.9",
+            "typeHandlerVersion": "2.19",
             "autoUpgradeMinorVersion": false,
             "settings": {
               "modulesUrl": "[parameters('cmSitecoreConfigDSCScriptUri')]",
@@ -843,7 +843,7 @@
           "properties": {
             "publisher": "Microsoft.Powershell",
             "type": "DSC",
-            "typeHandlerVersion": "2.9",
+            "typeHandlerVersion": "2.19",
             "autoUpgradeMinorVersion": false,
             "settings": {
               "modulesUrl": "[parameters('cdSitecoreConfigDSCScriptUri')]",
